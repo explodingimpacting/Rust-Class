@@ -1,0 +1,3 @@
+[submodule "Rust/100-exercies-to-learn-rust"]
+	path = Rust/100-exercies-to-learn-rust
+	url = https://github.com/abhinavm24/100-Exercises-to-Learn-Rust-solutions.git
